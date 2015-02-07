@@ -1,5 +1,5 @@
   <!-- Home Section -->
-    <section id="intro" class="intro-section">
+    <section id="page-top" class="home-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

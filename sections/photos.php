@@ -1,9 +1,9 @@
-   <!-- Events Section -->
-    <section id="events" class="events-section">
+   <!-- Photos Section -->
+    <section id="photos" class="photos-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Events Section</h1>
+                    <h1>Photos Section</h1>
                 </div>
             </div>
         </div>

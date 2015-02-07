@@ -16,7 +16,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Absynnia</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -30,7 +30,13 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#events">Services</a>
+                        <a class="page-scroll" href="#menu">Menu</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#photos">Photos</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#events">Events</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -38,9 +44,19 @@
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
+            
+            
         </div>
         <!-- /.container -->
     </nav>
+     <?php include('sections/home.php')?>
+    <?php include('sections/about.php')?>
+    <?php include('sections/menu.php')?>
+    <?php include('sections/photos.php')?>
+    <?php include('sections/events.php')?>
+    <?php include('sections/contact.php')?>
+   
+    
     
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
