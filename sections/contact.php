@@ -6,3 +6,12 @@
  * and open the template in the editor.
  */
 
+?>
+<div class="row">
+	<div class="col-md-6">
+
+	</div>
+	<div class="col-md-6">
+
+	</div>
+</div>
