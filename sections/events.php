@@ -1,5 +1,5 @@
    <!-- Events Section -->
-    <section id="services" class="services-section">
+    <section id="events" class="services-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
