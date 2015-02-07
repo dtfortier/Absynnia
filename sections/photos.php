@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Photos Section</h1>
+                    <h1>Photos</h1>
                 </div>
             </div>
         </div>

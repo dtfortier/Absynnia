@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Menu Section</h1>
+                    <h1>Menu</h1>
                 </div>
             </div>
         </div>

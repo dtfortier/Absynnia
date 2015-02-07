@@ -2,4 +2,16 @@
 Custom style sheet
 */
 
+h1,h2,h3,h4 {margin:0;font-style:normal;}
+h1 {font-family: 'Pacifico', cursive;}
+
+/* Sections ---------------------------------*/
+
+.section h1 {}
+.section h2 {}
+.section h3 {}
+.section h4 {}
+
+/* Home Page ---------------------------------*/
+
 
