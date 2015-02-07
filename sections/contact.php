@@ -11,10 +11,16 @@
 <section id="contact" class="contact-section">
    <div class="container">
        <div class="row">
+           <div class="col-lg-12">
+               <h1>Contact Us</h1>
+           </div>
+       </div>
+       <div class="row">
            <div class="col-lg-6">
-               <h1>Contact Section</h1>
+
            </div>
            <div class="col-lg-6">
+
            </div>
        </div>
    </div>
