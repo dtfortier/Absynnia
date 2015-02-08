@@ -23,6 +23,12 @@
                 <div class="col-md-4 thumb">
                         <img class="img-responsive" src="images/photo4.jpg" alt="Short alt text">
                 </div>
+                <div class="col-md-4 thumb">
+                        <img class="img-responsive" src="images/photo5.jpg" alt="Short alt text">
+                </div>
+                <div class="col-md-4 thumb">
+                        <img class="img-responsive" src="images/photo6.jpg" alt="Short alt text">
+                </div>
             </div>
         </div>
         <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
