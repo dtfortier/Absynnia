@@ -7,4 +7,8 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div id="image-container" class="col-md-12">
+            </div>
+        </div>
     </section>
