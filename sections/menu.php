@@ -7,8 +7,8 @@
                     <div class="wrap">
                         <div class="row">
                             <div class="col-lg-12">
-                                <h1>Meat Entrees
-                                </h1>
+                                <h2>Meat Entrees
+                                </h2>
                             </div>
                         </div>
 
@@ -66,8 +66,8 @@
                         
                         <div class="row">
                             <div class="col-lg-12">
-                                <h1>Vegetarian Entrees
-                                </h1>
+                                <h2>Vegetarian Entrees
+                                </h2>
                             </div>
 
                         </div>
@@ -121,8 +121,13 @@
                             </div>
                         </div>
                         <div class="row">
+                            <div class="col-lg-12">
+                                <h2>Vegetarian Combo:</h2>
+                            </div>
+                        </div>
+                        <div class="row">
                             <div class="col-lg-6">
-                                <h3>Vegetarian Combo: </h3>
+                                
                                 <p>All vegetarian entrees: 1 person ($8.99), for 2 people ($14.99)
                                 </p>
                             </div>
