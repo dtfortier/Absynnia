@@ -36,10 +36,13 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
-    background-image:url('../images/ethiopian.png');
-    background-repeat:no-repeat;
-    background-size:contain;
-    background-position:center;
+}
+
+.intro-section {
+    height: 100%;
+    padding-top: 30px;
+    text-align: left;
+    background: #fff;
 }
 
 .about-section {

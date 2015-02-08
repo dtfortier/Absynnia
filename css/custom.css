@@ -2,8 +2,29 @@
 Custom style sheet
 */
 
+body {font-family: 'Roboto Condensed', sans-serif;}
 h1,h2,h3,h4 {margin:0;font-style:normal;}
-h1 {font-family: 'Pacifico', cursive;}
+h1 {font-family: 'Pacifico', cursive;font-family: 'Pacifico', cursive;}
+a {}
+p {}
+
+
+/* Navbar ---------------------------------*/
+
+.navbar {background-color:#066B2D;}
+.navbar-default .navbar-nav>li>a {color: #CEDBCE;font-size: 18px;}
+.navbar-default .navbar-nav>li>a:hover {color:#5EB840;}
+.navbar-default .navbar-brand {color:#CEDBCE;font-size:22px;}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand:focus {color:#fff;}
+.navbar-default {border-color:#224F07;}
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+color: #fff;
+background-color: #5EB840;
+}
 
 /* Sections ---------------------------------*/
 
@@ -15,3 +36,28 @@ h1 {font-family: 'Pacifico', cursive;}
 /* Home Page ---------------------------------*/
 
 
+.home-section {
+    background-image:url('../images/ethiopian.jpg');
+    background-repeat:no-repeat;
+    //background-size:contain;
+    background-position:center;
+    width:100%;
+    height:100%;
+}
+
+.home-section h1 {color: #eee;font-size: 74px;text-shadow: 2px 2px #2C2F2D;padding: 100px 0 40px;}
+
+.home-section a.menu-btn {
+    color: #fff;
+    font-size: 18px;
+    padding: 7px 27px;
+    border: 2px solid #fff;
+    text-align: center;
+    width: 205px;
+    margin: 34px auto;
+    border-radius: 3px;
+    text-shadow: 2px 2px #2C2F2D;
+    text-decoration:none;
+}
+
+.home-section .menu-btn:hover {background-color:#fff;opacity:.5;color:#333;text-shadow:none;text-decoration:none;}
