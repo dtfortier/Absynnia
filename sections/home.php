@@ -12,16 +12,4 @@
         </div>
 </div>
 </section>
- <!--<section id="intro" class="intro-section">
-    <div class="container">
-        <div class="row">
-                <div class="col-lg-8">
-                    <h2>Col 1</h2>
-                </div>
-                <div class="col-lg-4">
-                    <h2>Col 2</h2>
-                </div>
-            </div>
-    </div>
- 
-  </section>-->
+
